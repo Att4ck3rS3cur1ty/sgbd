@@ -1,4 +1,4 @@
-Sistema Gerenciador de Banco de Dados - Introdução às Técnicas de Programação
+Sistema Gerenciador de Banco de Dados - Exemplo (com vários bugs)
 ===========================================================================================
  
 - Funções implementadas:
@@ -29,8 +29,6 @@ Sistema Gerenciador de Banco de Dados - Introdução às Técnicas de Programaç
     que o programa poderia receber e, dessa forma, reverter os erros, caso não sejam feitas as entradas 
     previamente esperadas. 
 
-- Autor: 
 
-    Kádson Breno Benvindo de Lima
 
 
